@@ -1,0 +1,19 @@
+{
+  "id": "move_damage_info",
+  "github": "cchrkk/gen1recomp-move-damage-info",
+  "name": "Move Damage Info",
+  "version": "1.2.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "Quality of life",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 130,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Shows the damage the highlighted move would deal, plus power, accuracy and type matchup, in the move-select box. SELECT explains what the move does. Text in English, Italian, Spanish or Portuguese, chosen in the mod options."
+}
